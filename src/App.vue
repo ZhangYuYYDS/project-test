@@ -2,6 +2,7 @@
     <div class="app">
         <h2 class="tip">Hello Zy</h2>
         <h1 class="tip">哈哈哈哈</h1>
+        <h1 class="tip">呵呵呵呵</h1>
     </div>
 </template>
 
